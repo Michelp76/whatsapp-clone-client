@@ -2,4 +2,4 @@
 - yarn start
 
 - Se connecter sur http://localhost:3000 pour avoir le WhatsApp-like
-- Se connecter sur http://localhost:4000/graphql pour avoir le Apollo Explorer
+- Se connecter sur http://localhost:4000/graphql pour avoir le Apollo Explorer (qui permet de créer des 'query')
